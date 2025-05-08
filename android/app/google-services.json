@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616572642205",
+    "project_id": "loginsignup-46420",
+    "storage_bucket": "loginsignup-46420.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616572642205:android:4a9750ff25113b660fc574",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCGwoewtP6A5qJTWOHL_eN_Vieb0pSfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
